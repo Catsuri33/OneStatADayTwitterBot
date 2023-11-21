@@ -1,0 +1,20 @@
+{
+  "name": "onestatadaytwitterbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Insignic",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "hypixel-api-wrapper": "^1.0.3",
+    "jimp": "^0.16.1",
+    "twit": "^2.2.11",
+    "twitch": "^4.5.2"
+  }
+}
